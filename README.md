@@ -1,5 +1,6 @@
 # AI-GO-Agent
 AI agent for the game of 'GO' on a 5x5 board.
+Employed Minimax Algorithm with Alpha-Beta Pruning, with a game tree depth of 4.
 
 - Run the AIvsHuman script to start playing.
 - Choose 'w' or 'b' to play as 'White' or 'Black'
