@@ -2,8 +2,8 @@
 
 ### Algorithm Used 
 Minimax Algorithm with Alpha-Beta Pruning. The game tree depth equals the difficulty level chosen by the user. The game supports upto 5 difficulty levels, 1 being the easiest and 5 being the hardest difficulty level.
-**Minimax Algorithm**: https://en.wikipedia.org/wiki/Minimax
-**Alpha Beta Pruning**: https://en.wikipedia.org/wiki/Alpha%E2%80%93beta_pruning
+- **Minimax Algorithm**: https://en.wikipedia.org/wiki/Minimax
+- **Alpha Beta Pruning**: https://en.wikipedia.org/wiki/Alpha%E2%80%93beta_pruning
 
 ### Gameplay Instructions
 - Run the AIvsHuman.py script to start playing.
